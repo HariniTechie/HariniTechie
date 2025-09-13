@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm Harini Siliveru,
+I'm Siliveru Harini 🌟
+Passionate engineering student | Creative Thinker | Lifelong Learner
 
 ## 🚀 About Me :)
 I am a passionate student and early-career developer with a strong focus on Artificial Intelligence and Machine Learning. 
