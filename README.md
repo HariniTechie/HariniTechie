@@ -43,6 +43,7 @@ Hands-free computer control for improved productivity and accessibility.
 Voice-enabled personal assistant for general knowledge, reminders, and casual conversation.
 Offline AI interactions without reliance on external cloud services.
 Language inclusive assistant supporting Telugu speakers.
+LINK: https://github.com/HariniTechie/Jarvis-Assistant
 
 ## 📫 How to reach me
 - LinkedIn: [www.linkedin.com/in/harini-siliveru]
