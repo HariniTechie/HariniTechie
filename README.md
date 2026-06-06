@@ -36,7 +36,7 @@ To build scalable cloud-based and AI-powered solutions that solve real-world pro
 ## 🛠️ Tech Stack
 
 ### Languages
-Python • Java • SQL
+Python 
 
 ### AI & Machine Learning
 TensorFlow
@@ -104,6 +104,32 @@ Compared:
 
 Dataset:
 5863 Chest X-Ray Images
+
+---
+
+### 🎓 Student Performance Analytics System
+
+Developed a cloud-based web application for managing and analyzing student academic performance using Snowflake Cloud Database and Flask.
+
+**Key Features**
+
+* Student Record Management (CRUD Operations)
+* Attendance & Performance Tracking
+* Interactive Analytics Dashboard
+* Real-Time Data Visualization
+* Cloud-Based Storage & Processing
+
+**Tech Stack**
+Python • Flask • Snowflake • HTML • CSS • Chart.js
+
+**Highlights**
+
+* Integrated Flask with Snowflake Cloud Database
+* Built analytical dashboards for performance insights
+* Implemented real-time charts and visual reports
+* Designed a scalable three-tier architecture
+
+*"Transforming student data into meaningful academic insights through cloud computing and analytics."*
 
 ---
 
@@ -182,10 +208,10 @@ and ends 4 hours later.
 siliveruharininetha@gmail.com
 
 💼 LinkedIn:
-(Add Your LinkedIn Here)
+www.linkedin.com/in/harini-siliveru
 
 🌐 GitHub:
-(Add Your GitHub Here)
+github.com/HariniTechie
 
 ---
 
