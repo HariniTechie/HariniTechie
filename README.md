@@ -1,57 +1,192 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Harini Siliveru</h1>
 
-I'm Siliveru Harini 🌟
-Passionate engineering student | Creative Thinker | Lifelong Learner
+<h3 align="center">
+AI & ML Student • Cloud Enthusiast • Python Developer • Problem Solver
+</h3>
 
-## 🚀 About Me :)
-I am a passionate student and early-career developer with a strong focus on Artificial Intelligence and Machine Learning. 
-I love building intelligent systems that can interact naturally with humans, such as voice assistants and AI-powered applications.
-Currently, I am deeply engaged in developing advanced AI projects, exploring neural network architectures, and integrating large language models.
-My specialties include Python programming, natural language processing, speech recognition, and deploying AI models both locally and in cloud environments.
-I enjoy hands-on coding challenges, continuous learning, and staying up-to-date with cutting-edge AI research.
-In addition to technical development, I actively prepare for professional certifications, contribute to academic projects, and create detailed documentation and presentations to share knowledge effectively.
+<p align="center">
+Building projects, breaking bugs, fixing bugs, and occasionally wondering why the code worked after the 17th attempt 😄
+</p>
 
-## 💻 Skills
-Languages: Python, Java, HTML, CSS, JavaScript  
-Technologies: AI, Web Development, Git, SQL
+---
 
-## 🛠️ Projects
-- **JARVIS AI Assistant**: JARVIS AI Assistant is a powerful, bilingual desktop voice assistant built using Python, designed to enhance productivity and simplify everyday computing tasks. Inspired by the fictional AI assistant Jarvis from the Iron Man series, this project combines speech recognition, text-to-speech, natural language understanding, and local large language model integration to deliver a seamless voice-controlled experience.
+## 🚀 About Me
 
-Core Features:
-Voice & Text Interaction: Control your computer using voice commands activated by a keyboard hotkey or typed text input.
-Bilingual Support: Supports English and Telugu with automatic language detection and translation for natural two-language interaction.
-Smart Responses: Integrates with LM Studio’s large language models for conversational AI responses with context and coherence.
-Knowledge & Information Retrieval: Quickly fetch summaries from Wikipedia on any topic.
-Calculator: Safely performs arithmetic operations on demand.
-Notes & Memory: Save and retrieve custom text notes or reminders locally.
-Application Launch: Open system applications like Notepad and play music from your Music directory.
-Weather Updates: Provides live weather data using external APIs (requires API key).
-File Search: Search for files in user directories by name.
-Simultaneous Speech & Text Output: Speaks replies aloud while displaying textual information instantly.
+🎓 B.Tech Student specializing in Artificial Intelligence & Machine Learning
 
-Technical Architecture:
-Uses SpeechRecognition for audio input and pyttsx3 for text-to-speech output.
-Language detection and optional translation handled via langdetect and deep-translator.
-Local AI integration with LM Studio’s REST API enables offline large model use.
-Utility functions modularized for easy extension (calculator, Wikipedia, weather, apps).
-Local storage for memory uses JSON file.
-Fully configurable and extendible for additional features or languages.
+☁️ Experienced with Snowflake Cloud Data Warehouse and AWS Fundamentals
 
-Use Cases:
-Hands-free computer control for improved productivity and accessibility.
-Voice-enabled personal assistant for general knowledge, reminders, and casual conversation.
-Offline AI interactions without reliance on external cloud services.
-Language inclusive assistant supporting Telugu speakers.
+💻 Interested in:
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Data Engineering
+- Full Stack Development
 
-LINK: https://github.com/HariniTechie/Jarvis-Assistant
+📚 Currently learning:
+- AWS Cloud Services
+- Data Structures & Algorithms
+- System Design
 
-## 📫 How to reach me
-- LinkedIn: [www.linkedin.com/in/harini-siliveru]
-- Email: siliveruharininetha@gmail.com
+🎯 Goal:
+To build scalable cloud-based and AI-powered solutions that solve real-world problems.
 
-## ✨ Fun Facts
-1. I enjoy hiking and exploring new places.
-2. Big fan of coding competitions.
+---
 
-Thanks for visiting my profile! 🚀
+## 🛠️ Tech Stack
+
+### Languages
+Python • Java • SQL
+
+### AI & Machine Learning
+TensorFlow
+Keras
+OpenCV
+Scikit-Learn
+CNN
+LSTM
+ResNet50
+VGG19
+
+### Cloud & Databases
+Snowflake
+AWS
+Google Cloud
+
+### Web Development
+Flask
+HTML
+CSS
+Chart.js
+
+### Tools
+Git
+GitHub
+VS Code
+Jupyter Notebook
+Kaggle
+
+---
+
+## 🏆 Highlighted Projects
+
+### 🎓 Student Performance Analytics System
+
+Cloud-based student analytics platform built using Flask and Snowflake.
+
+✔ Student Record Management
+
+✔ Dashboard Analytics
+
+✔ Attendance Monitoring
+
+✔ Performance Visualization
+
+✔ Cloud Data Storage
+
+**Tech Stack**
+
+Python • Flask • Snowflake • HTML • CSS • Chart.js
+
+---
+
+### 🫁 Pneumonia Detection Using CNN
+
+Deep Learning-based medical image classification system.
+
+📊 Accuracy Achieved: 92.46%
+
+Compared:
+- Custom CNN
+- VGG19
+- ResNet50
+- Fine-Tuned ResNet50
+
+Dataset:
+5863 Chest X-Ray Images
+
+---
+
+### 🌫️ AQI Prediction Dashboard
+
+Machine Learning-powered Air Quality Monitoring System.
+
+✔ Real-Time Predictions
+
+✔ Interactive Dashboard
+
+✔ Random Forest Model
+
+📊 Accuracy: 89%
+
+---
+
+### 🌍 Fine-Grained Air Pollution Prediction
+
+Hybrid CNN-LSTM model for urban pollution forecasting.
+
+📊 Accuracy: 91%
+
+Focus:
+- Spatial Data Analysis
+- Temporal Forecasting
+- Environmental Intelligence
+
+---
+
+## 📈 What I'm Working On
+
+🔹 AWS Cloud
+
+🔹 Advanced Python
+
+🔹 DSA for Placements
+
+🔹 Backend Development
+
+🔹 Data Engineering Concepts
+
+---
+
+## 🏅 Achievements
+
+🥇 Bharatiya Antariksh Hackathon
+
+Built AI/ML solutions using Satellite Data for Air Pollution Monitoring.
+
+🏆 NPTEL Java Certification
+
+Elite + Gold
+
+Score: 91%
+
+---
+
+## 💡 Random Facts
+
+⚡ I enjoy turning datasets into meaningful insights.
+
+⚡ I believe every bug teaches something new.
+
+⚡ Most of my learning starts with:
+"Let me just try this..."
+and ends 4 hours later.
+
+⚡ Coffee ☕ + Python 🐍 = Productivity
+
+---
+
+## 📫 Let's Connect
+
+📧 Email:
+siliveruharininetha@gmail.com
+
+💼 LinkedIn:
+(Add Your LinkedIn Here)
+
+🌐 GitHub:
+(Add Your GitHub Here)
+
+---
+
+⭐ If you like my work, feel free to explore my repositories.
